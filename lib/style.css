@@ -24,10 +24,10 @@ body {
 }
 
 .phone {
-  height: 50px;
-  width: 100px;
-  border: 3px solid white;
-  border-radius: 10px;
+  height: 5px;
+  width: 10px;
+  border: 1px transparent;
+  border-radius: 1px;
   animation: rotate 1.5s ease-in-out infinite alternate;
    display: none; 
 }
